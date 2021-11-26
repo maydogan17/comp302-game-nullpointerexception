@@ -2,7 +2,7 @@
 
 Gülay Canbaloğlu gcanbaloglu17@ku.edu.tr  
 Murat Han Aydoğan maydogan17@ku.edu.tr  
-Burhan Özer Çavdar bcavdar17@ku.edu.tr
+Burhan Özer Çavdar bcavdar17@ku.edu.tr  
 Talha Enes Güler tguler17@ku.edu.tr  
 Furkan Bulgur fbulgur17@ku.edu.tr  
 
