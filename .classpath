@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="externalJARs/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="externalJARs/bson-4.2.0-beta1.jar"/>
+	<classpathentry kind="lib" path="externalJARs/mongodb-driver-core-4.2.0-beta1.jar"/>
+	<classpathentry kind="lib" path="externalJARs/mongodb-driver-sync-4.2.0-beta1.jar"/>
+	<classpathentry kind="lib" path="externalJARs/jackson-annotations-2.12.1.jar"/>
+	<classpathentry kind="lib" path="externalJARs/jackson-core-2.12.1.jar"/>
+	<classpathentry kind="lib" path="externalJARs/jackson-databind-2.12.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
